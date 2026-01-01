@@ -1,0 +1,5 @@
+{	
+    "name": "netease-cloud-music-api",
+	"main": "./app.js",
+	"compatibility_date": "2026-1-1"
+}
