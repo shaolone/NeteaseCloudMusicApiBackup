@@ -1,7 +1,7 @@
 {
   "name": "netease-cloud-music-api",
   "main": "./worker.js",
-  "compatibility_date": "2026-1-1",
+  "compatibility_date": "2025-12-31",
   "compatibility_flags": ["nodejs_compat"],
   "observability": {
     "enabled": false,
