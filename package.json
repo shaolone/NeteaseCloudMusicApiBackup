@@ -42,8 +42,7 @@
   "main": "main.js",
   "types": "./interface.d.ts",
   "engines": {
-    "node": ">=12",
-    "yarn": ">=1.22.0 <2.0.0"
+    "node": ">=12"
   },
   "lint-staged": {
     "*.js": [
